@@ -4,8 +4,7 @@
 A Blog App based on Flask, Postgresql with Flask Auth where user can create account, read, comment and delete there own post.
 
 CRUD operations are used.
-
-You can check this app on [TechTalk](http://techtalkak.herokuapp.com/) 
+ 
 
 
 # Quick Start
